@@ -1,0 +1,4 @@
+# binaries and archives pulled by the setup steps
+*.tar.gz
+*.tgz
+*.tar.xz
